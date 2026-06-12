@@ -42,3 +42,5 @@ I build at the intersection of AI, mobile, and quantitative systems, ranging fro
 ## 📬 Get in Touch
 
 [LinkedIn](https://www.linkedin.com/in/hissanomar) · hissanomar786@hotmail.com
+
+Also check out our Renovate Inc. website! If you know any tradespeople that are interested in finding work, don't hesitate to share them this link : [Renovate](https://renovateuk.com)
