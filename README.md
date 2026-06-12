@@ -20,7 +20,7 @@ I build at the intersection of AI, mobile, and quantitative systems, ranging fro
 
 ---
 
-## 🧠 Interests
+## Interests
 
 - AI in robotics and computer vision
 - Quantitative finance and portfolio optimisation  
@@ -29,7 +29,7 @@ I build at the intersection of AI, mobile, and quantitative systems, ranging fro
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Languages:** Python · TypeScript · Swift · Java  
 **AI/ML:** PyTorch · TensorFlow · YOLOv11 · LoRA fine-tuning · ROS  
@@ -39,7 +39,7 @@ I build at the intersection of AI, mobile, and quantitative systems, ranging fro
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 [LinkedIn](https://www.linkedin.com/in/hissanomar) · hissanomar786@hotmail.com
 
